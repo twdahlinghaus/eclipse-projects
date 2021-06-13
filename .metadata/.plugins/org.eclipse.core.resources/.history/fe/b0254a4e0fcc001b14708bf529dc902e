@@ -1,0 +1,25 @@
+package java_basics;
+
+public class JavaBasicsApp {
+
+	public static void main(String[] args) {
+		System.out.println("Let's shake off some rust again!!");
+		System.out.println();
+		
+		int a = 5;
+		int b = 10;
+		int sum = a + b;
+		System.out.println(sum);
+		System.out.println();
+		
+		String firstName = "Tom";
+		String lastName = "Dhaus";
+		System.out.println(firstName + " " + lastName);
+		
+		
+		System.out.println();		
+		System.out.println("Ba bye!");
+
+	}
+
+}

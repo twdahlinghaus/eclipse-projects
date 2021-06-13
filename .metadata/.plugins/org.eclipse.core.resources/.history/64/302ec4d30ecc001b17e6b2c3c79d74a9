@@ -1,0 +1,14 @@
+package java_basics;
+
+public class JavaBasicsApp {
+
+	public static void main(String[] args) {
+		System.out.println("Let's shake off some rust again!!");
+		System.out.println();
+		
+		System.out.println();		
+		System.out.println("Ba bye!");
+
+	}
+
+}
