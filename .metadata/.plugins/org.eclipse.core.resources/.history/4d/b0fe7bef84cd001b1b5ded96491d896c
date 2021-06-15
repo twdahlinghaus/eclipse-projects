@@ -14,7 +14,7 @@ public class JavaBasicsApp {
 		System.out.println(sum);
 		System.out.println(prod);
 		System.out.println(quot);
-		System.out.println("==========");
+		System.out.println();
 		
 		int x = (a + b + sum);
 		System.out.println(x);
@@ -22,11 +22,6 @@ public class JavaBasicsApp {
 		int y = x + quot;
 		System.out.println(y);
 		System.out.println("==========");
-		
-		String girlFriend = "Girlie";
-		String phoneNumber = "555-867-1212";
-		System.out.println(girlFriend +"'s" + " phone number is " + phoneNumber + "!" );
-		System.out.println();
 		
 		String firstName = "Tommy";
 		String lastName = "Boy";

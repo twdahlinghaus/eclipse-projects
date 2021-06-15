@@ -23,7 +23,7 @@ public class JavaBasicsApp {
 		System.out.println(y);
 		System.out.println("==========");
 		
-		String girlFriend = "Girlie";
+		String girlFriend = "Kayla";
 		String phoneNumber = "555-867-1212";
 		System.out.println(girlFriend +"'s" + " phone number is " + phoneNumber + "!" );
 		System.out.println();
